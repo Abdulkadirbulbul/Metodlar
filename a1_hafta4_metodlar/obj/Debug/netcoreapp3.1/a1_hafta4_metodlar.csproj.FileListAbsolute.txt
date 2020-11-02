@@ -1,0 +1,13 @@
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\bin\Debug\netcoreapp3.1\a1_hafta4_metodlar.exe
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\bin\Debug\netcoreapp3.1\a1_hafta4_metodlar.deps.json
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\bin\Debug\netcoreapp3.1\a1_hafta4_metodlar.runtimeconfig.json
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\bin\Debug\netcoreapp3.1\a1_hafta4_metodlar.runtimeconfig.dev.json
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\bin\Debug\netcoreapp3.1\a1_hafta4_metodlar.dll
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\bin\Debug\netcoreapp3.1\a1_hafta4_metodlar.pdb
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\obj\Debug\netcoreapp3.1\a1_hafta4_metodlar.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\obj\Debug\netcoreapp3.1\a1_hafta4_metodlar.AssemblyInfo.cs
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\obj\Debug\netcoreapp3.1\a1_hafta4_metodlar.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\obj\Debug\netcoreapp3.1\a1_hafta4_metodlar.dll
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\obj\Debug\netcoreapp3.1\a1_hafta4_metodlar.pdb
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\obj\Debug\netcoreapp3.1\a1_hafta4_metodlar.genruntimeconfig.cache
+C:\Users\kadir\source\repos\a1_hafta4_metodlar\a1_hafta4_metodlar\obj\Debug\netcoreapp3.1\a1_hafta4_metodlar.csprojAssemblyReference.cache
